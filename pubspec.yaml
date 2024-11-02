@@ -1,8 +1,7 @@
 name: flutter_sparkline
 description: Beautiful sparkline charts for Flutter.
 version: 0.1.0
-author: Victor Choueiri <victor.oc@gmail.com>
-homepage: https://github.com/xqwzts/flutter_sparkline
+homepage: https://github.com/tankaetzer/flutter_sparkline
 
 dependencies:
   flutter:
@@ -13,4 +12,4 @@ dev_dependencies:
     sdk: flutter
 
 environment:
-  sdk: ">=2.0.0-dev.58.0 <3.0.0"
+  sdk: ">=2.12.0"

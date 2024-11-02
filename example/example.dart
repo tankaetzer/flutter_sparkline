@@ -24,9 +24,9 @@ void main() {
             height: 100.0,
             child: new Sparkline(
               data: data,
-              lineColor: Colors.lightGreen[500],
+              lineColor: Colors.lightGreen.shade500,
               fillMode: FillMode.below,
-              fillColor: Colors.lightGreen[200],
+              fillColor: Colors.lightGreen.shade200,
               pointsMode: PointsMode.all,
               pointSize: 5.0,
               pointColor: Colors.amber,
